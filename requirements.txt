@@ -1,0 +1,6 @@
+g4f
+PyPDF2
+PyQt5
+PyQt5-tools
+pyqt5-plugins
+httpx
