@@ -23,13 +23,13 @@
 Для запуска программы на Linux выполните следующие шаги:
 
 1. Скачайте репозиторий с GitHub:
-   git clone https://github.com/MikhailKonovalov/ScannerParserDepart.git
+   - git clone https://github.com/MikhailKonovalov/ScannerParserDepart.git
    
 2. Установите среду python и необходимые пакеты из файла requirements.txt:
-   make
+   - make
    
 3. Активируйте среду Python:
-   source env/bin/activate
+   - source env/bin/activate
    
 4. Запустите программу из командной строки:
-   python3 run.py
+   - python3 run.py
