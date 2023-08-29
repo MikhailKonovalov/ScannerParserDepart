@@ -1,4 +1,4 @@
 pdf/
 *.pdf
-env/
+./env/
 __pycache__/
