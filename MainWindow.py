@@ -85,8 +85,9 @@ class MainWindow(QMainWindow):
 
     # function for executing an event when closing
     def closeEvent(self, event):
-        if self.OperationThread.isRunning():
-            self.OperationThread.quit()
-            self.OperationThread.wait()
+        # Временно
+        # if self.OperationThread.isRunning():
+        #     self.OperationThread.quit()
+        #     self.OperationThread.wait()
         event.accept()
 
