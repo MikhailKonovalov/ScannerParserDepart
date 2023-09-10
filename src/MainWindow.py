@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QMainWindow, QLabel, QMessageBox
 from PyQt5.QtCore import Qt
 
 from MessageBox import MessageBox
-from handler import OperationThread
+from src.handler import OperationThread
 
 
 # Main class window
